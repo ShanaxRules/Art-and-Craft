@@ -1,0 +1,7 @@
+.navlinker{
+    margin-right: 16px;
+}
+
+a.active{
+    color:steelblue;
+}
