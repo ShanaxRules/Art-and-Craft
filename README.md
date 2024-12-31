@@ -1,8 +1,9 @@
-# React + Vite
+#A Art and Craft Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1) User can sign up and login to the Website and can view their added items , or can add items to the global community.
+2) Users can see all items added by other users and their names
+3) User can view all the items displayed specially by the shop
+4) Used various animations for a glimmering effect
+5) Used MongoDB database for a smoother transition
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tools used : MongoDB , RestAPI , ExpressJS , NodeJS , ReactJS , Firebase
